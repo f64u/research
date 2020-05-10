@@ -7,3 +7,6 @@
 Backup of *.doc*
 
 p/ 
+
+*.xml
+*.Data/
